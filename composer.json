@@ -1,2 +1,17 @@
 {
+    "name": "alex/tree",
+    "description": "Library for work with tree",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "IVeryHateMonday",
+            "email": "kovalinskijoleksandr38@gmail.com"
+        }
+    ],
+    "require": {}
 }
